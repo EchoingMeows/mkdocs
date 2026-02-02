@@ -4,14 +4,14 @@ title: Joining the OCF
 
 ## Before you begin
 
-* Check the [membership eligibility](/user-docs/membership/eligibility/) page to make
+* Check the [membership eligibility](eligibility.md) page to make
   sure you are eligible for an OCF account. For example, all currently-enrolled
   students and active student groups registered with the LEAD Center are
   eligible.
 
 * OCF accounts do not expire, so make sure you have not made an account in the
   past. If you have forgotten your account name or password, please do not
-  request a new account. Instead, reset your [password](/user-docs/services/account/).
+  request a new account. Instead, reset your [password](../services/account/index.md).
 
 * We recommend that you choose a professional OCF account name. It is unlikely
   you will be able to change your account name after your request has been
@@ -22,15 +22,15 @@ title: Joining the OCF
 
 * Individual accounts are associated with a single person and may not be
   shared.
-* Individual accounts are **not** eligible for [virtual hosting](/user-docs/services/vhost/) except for faculty and staff accounts.
-* Individual accounts are eligible for [printing](/user-docs/services/lab/printing/).
+* Individual accounts are **not** eligible for [virtual hosting](../services/vhost/index.md) except for faculty and staff accounts.
+* Individual accounts are eligible for [printing](../services/lab/printing.md).
 
 **[Request an account online](https://www.ocf.berkeley.edu/account/register/)**
 
 You will be prompted to log in with CalNet. Then follow the instructions to
 make your request.
 
-Feel free to [contact us](/user-docs/contact/) if you experience difficulties in the
+Feel free to [contact us](../contact/index.md) if you experience difficulties in the
 request or you have questions.
 
 Then, wait for your account to be created. (below)
@@ -39,8 +39,8 @@ Then, wait for your account to be created. (below)
 
 * Group accounts are associated with a group and may be shared by members of
   the group.
-* Group accounts are eligible for [virtual hosting](/user-docs/services/vhost/).
-* Group accounts are **not** eligible for [printing](/user-docs/services/lab/printing/).
+* Group accounts are eligible for [virtual hosting](../services/vhost/index.md).
+* Group accounts are **not** eligible for [printing](../services/lab/printing.md).
 
 Follow this procedure to get a group account:
 

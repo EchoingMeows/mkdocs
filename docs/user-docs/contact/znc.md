@@ -48,7 +48,7 @@ connect to IRC normally.
 
 ### Setting up NickServ to work with ZNC
 
-If you are [using ZNC](../../../staff-docs/archive/znc), load the [NickServ
+If you are [using ZNC](../../staff-docs/archive/znc.md), load the [NickServ
 module][nickserv] by running `/znc LoadMod nickserv` while connected to your
 ZNC server. Then, in your ZNC web admin interface, log in and go to `Your
 Settings` under either the global or user modules links. Under the Networks

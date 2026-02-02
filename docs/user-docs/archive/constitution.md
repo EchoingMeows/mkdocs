@@ -49,9 +49,9 @@ and may also be referred to as the *OCF*.
 #### 2.1 General Membership
 Any UC Berkeley student, faculty or staff member may be an OCF Member.
 
-#### 2.2 Active Members    {active_members}
+#### 2.2 Active Members    {#active_members}
 
-##### 2.2.1 Eligibility    {amended-2015-09-01-part0}
+##### 2.2.1 Eligibility    {#amended-2015-09-01-part0}
 Only currently registered students, faculty, and staff may be active members in
 a registered student organization. Only active members may vote or hold office.
 
@@ -78,7 +78,7 @@ Inactive Member.
 ##### 3.1.1 Offices
 The only elected offices are General Manager and Site Manager(s).
 
-##### 3.1.2 ............    {amended-2015-09-01-part1}
+##### 3.1.2 ............    {#amended-2015-09-01-part1}
 *[Repealed September 1, 2015 for redundancy with section 2.2.1.]*
 
 ##### 3.1.3 Elected
@@ -144,7 +144,7 @@ OCF.
 The [OCF Decision Making Process](#ocf_decision_making_process) can call a
 General Meeting at any time.  When possible, one week's notice shall be given.
 
-##### 4.1.1 Election Meetings    {election_meetings}
+##### 4.1.1 Election Meetings    {#election_meetings}
 The Elections Meeting shall, in this order,
 
 1. approve the Faculty Sponsors,
@@ -153,7 +153,7 @@ The Elections Meeting shall, in this order,
 4. appoint Directors,
 5. and then consider new business.
 
-###### 4.1.1.1 Date of Elections Meeting    {amended-1990-03-21}
+###### 4.1.1.1 Date of Elections Meeting    {#amended-1990-03-21}
 The OCF shall meet to elect officers during the third week of classes of the
 Fall and Spring Semesters.
 
@@ -178,7 +178,7 @@ By definition a quorum exists at these meetings.
 ###### 4.2.1.1 Special General Meetings
 Quorum consists of 25% of all Active Members prior to the meeting.
 
-##### 4.2.2 Board Meetings    {amended-1991-11-21}
+##### 4.2.2 Board Meetings    {#amended-1991-11-21}
 Quorum consists of 2/3 of the Board of Directors or five Board members,
 whichever is greater.
 
@@ -207,7 +207,7 @@ be selected by the OCF Board of Directors and shall be subject to selection by
 the OCF at the Elections Meeting.
 
 
-### 6 The OCF Decision Making Process    {ocf_decision_making_process}
+### 6 The OCF Decision Making Process    {#ocf_decision_making_process}
 
 #### 6.1 Faculty Sponsors
 The Faculty Sponsor or Faculty Sponsors shall have ultimate authority over any
@@ -235,7 +235,7 @@ action conflicts with Articles 6.1, 6.2, 6.3 and 6.4.
 
 #### 7.1 Non-discrimination
 
-##### 7.1.1 In Accord with Berkeley Campus Regulations    {amended-2014-09-29}
+##### 7.1.1 In Accord with Berkeley Campus Regulations    {#amended-2014-09-29}
 The OCF shall not restrict membership based upon race, color, national origin,
 religion, sex, gender identity, pregnancy (including pregnancy, childbirth, and
 medical conditions related to pregnancy or childbirth), physical or mental
@@ -255,7 +255,7 @@ providing separate facilities for different uses, as long as the availability
 of such facilities is proportionate to demand among the OCF's current and
 potential users.
 
-##### 7.1.3 Political Activity    {amended-2000-02-08}
+##### 7.1.3 Political Activity    {#amended-2000-02-08}
 The OCF shall not restrict membership or otherwise discriminate in any way
 against any person or group on the basis of political activity.
 
@@ -292,7 +292,7 @@ to deny or disparage other rights retained by individuals.
 
 ##### 8.1.1 Process
 
-###### 8.1.1.1 In General    {amended-1991-05-14}
+###### 8.1.1.1 In General    {#amended-1991-05-14}
 A proposed amendment to the Constitution must be presented at a Board of
 Directors meeting at least one week before the General Meeting at which it is
 to be discussed.  A list of proposed amendments must be made accessible to the
@@ -303,7 +303,7 @@ required for approval.
 
 *[This section was changed by amendment on May 14, 1991.]*
 
-###### 8.1.1.2 For Fulfilling University Requirements    {amended-2015-09-22}
+###### 8.1.1.2 For Fulfilling University Requirements    {#amended-2015-09-22}
 
 When the OCF is not formally in session, the Board of Directors may, with a 2/3
 majority vote, directly enact amendments whose only function is to bring this
@@ -316,7 +316,7 @@ Whenever this Constitution is amended, an annotation of the date of
 ratification shall be added to the beginning of this document and shall be
 further noted immediately following the new amendment.
 
-##### 8.1.3 LEAD Center Records    {amended-2016-05-13-part0}
+##### 8.1.3 LEAD Center Records    {#amended-2016-05-13-part0}
 All amendments, additions or deletions to this document must be filed with the
 LEAD Center in 432 Eshleman Hall.
 
@@ -330,7 +330,7 @@ Bylaws may be created or modified as needed, through the [OCF Decision Making
 Process](#ocf_decision_making_process).
 
 
-### 9  Dissolution    {amended-2016-05-13-part1}
+### 9  Dissolution    {#amended-2016-05-13-part1}
 The assets of the OCF constitute a continuing trust for the benefit of all
 members of the Berkeley campus community interested in open computing
 facilities.

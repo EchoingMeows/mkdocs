@@ -34,7 +34,7 @@ We hold two meetings each week during the fall and spring semesters. If you're
 new to the OCF, we recommend you attend our [General
 Meetings](staff-meetings.md). If you're curious about the larger technical and
 administrative decisions we make, you can also listen in on our [Board of
-Directors](../bod) meetings.
+Directors](../bod/index.md) meetings.
 
 ### Linux SysAdmin DeCal
 
@@ -65,7 +65,7 @@ If you’re feeling particularly adventurous, you could also [search for the str
 
 #### Help Tickets
 
-During the semester, our [help@ocf.berkeley.edu mailing list](../../user-docs/contact)
+During the semester, our [help@ocf.berkeley.edu mailing list](../../user-docs/contact/index.md)
 gets around 14 emails per week from the UC Berkeley community. Volunteers like
 you respond to these emails. Most requests are about requesting virtual hosting
 and helping users debug or fix their websites. If you’re interested in seeing
@@ -105,7 +105,7 @@ attending staff hours can serve multiple purposes:
 **I wasn’t able to make the first/second/nth meeting of the semester, can I
 still join?**
 
-Yes! You can join at any meeting at any time. If you’re worried about what you’ve missed, you can ask a veteran staffer to bring you up to speed or review the [BoD minutes](../bod) for that week.
+Yes! You can join at any meeting at any time. If you’re worried about what you’ve missed, you can ask a veteran staffer to bring you up to speed or review the [BoD minutes](../bod/index.md) for that week.
 
 **What if I can’t physically be present at weekly meetings?**
 

@@ -86,7 +86,7 @@ Please note that any cease and desist notices may be forwarded to the [Lumen
 database][lumen] for publication and annotation.
 
 Please take note of our
-[content removal policy](../services/account/content-removal) prior
+[content removal policy](../services/account/content-removal.md) prior
 to contacting us about taking down user content.
 
 [lumen]: https://lumendatabase.org/

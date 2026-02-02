@@ -2,7 +2,7 @@
 title: Munin
 ---
 
-**NOTE:** We are currently in the process of migrating many of our monitoring services to Prometheus. For more information, visit the documentation page for Prometheus [here](/staff-docs/infrastructure/prometheus/).
+**NOTE:** We are currently in the process of migrating many of our monitoring services to Prometheus. For more information, visit the documentation page for Prometheus [here](../infrastructure/prometheus.md).
 
 We use [Munin](https://munin.ocf.berkeley.edu) to provide real-time monitoring
 of our hardware. The master is [dementors](https://www.ocf.berkeley.edu/docs/staff/backend/servers/) which

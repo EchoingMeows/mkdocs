@@ -4,7 +4,7 @@ title: Ruby on Rails
 
 **Note: These instructions are primarily intended for individual user accounts.
 If you are using a group account, you may wish to consider
-[apphosting](/user-docs/services/webapps/) instead.**
+[apphosting](../webapps/index.md) instead.**
 
 Ruby on Rails is a popular web framework for Ruby applications.
 

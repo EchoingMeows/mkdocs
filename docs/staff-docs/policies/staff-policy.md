@@ -9,7 +9,7 @@ _[The rest of this policy is per Site Manager decision on 8/30/17]_
 
 ## Background
 
-The [OCF Decision Making Process](/about/constitution/#ocf-decision-making-process) spells out the
+The [OCF Decision Making Process](../../user-docs/docs/constitution.md#6-the-ocf-decision-making-process) spells out the
 powers of BoD, the GMs, and the SMs; however, it doesn't explain what powers
 other staffers have.  The main purpose of this policy is to delineate what
 things staff can do on their own, what things they must not do, and what things

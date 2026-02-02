@@ -6,16 +6,16 @@ title: Frequently Asked Questions
 
 Access to computing by the students for the students!
 
-More specifically, we have a [list of services](/user-docs/services).
+More specifically, we have a [list of services](services/index.md).
 
 #### Who are you?
 
 The largest(\*) student organization on campus (\*by membership count). OCF is
 completely administered and operated by student volunteers ("staff"). [About
-the OCF](/user-docs/about).
+the OCF](about.md).
 
 Interested in [joining staff](https://www.ocf.berkeley.edu/about/staff)? Feel free to attend our meetings
-or [contact us](/user-docs/contact) by email.
+or [contact us](contact/index.md) by email.
 
 #### Where is the lab? What are the hours?
 
@@ -23,9 +23,9 @@ See [lab](https://www.ocf.berkeley.edu/docs/services/lab/).
 
 #### How do I join the OCF and get an OCF account?
 
-See [Join the OCF](/user-docs/membership/).
+See [Join the OCF](membership/index.md).
 
-#### How do I join [OCF staff](/staff-docs/)?
+#### How do I join [OCF staff](../staff-docs/index.md)?
 
 Check out [our staff recruitment website](https://www.ocf.berkeley.edu/about/staff)!
 
@@ -50,38 +50,38 @@ by in-person to ask for it.
 #### I have an account. Does it expire? Will it still work?
 
 It should still work. Our current policy is to leave accounts alone after
-graduation. See [account](/user-docs/services/account/).
+graduation. See [account](services/account/index.md).
 
 #### My account is disabled. Or, I want to disable or delete my account.
 
-See [account](/user-docs/services/account/).
+See [account](services/account/index.md).
 
 #### I forgot my username or password.
 
-See [account](/user-docs/services/account/).
+See [account](services/account/index.md).
 
-#### [Web hosting](/user-docs/services/web/): How do I get group.studentorg.berkeley.edu ([virtual hosting](/user-docs/services/vhost/))?
+#### [Web hosting](services/web/index.md): How do I get group.studentorg.berkeley.edu ([virtual hosting](services/vhost/index.md))?
 
-First, you need to have a group [account](/user-docs/membership/) and a working
-[website](/user-docs/services/web/). Then, request [virtual hosting](/user-docs/services/vhost/).
+First, you need to have a group [account](membership/index.md) and a working
+[website](services/web/index.md). Then, request [virtual hosting](services/vhost/index.md).
 
-#### [Email hosting](/user-docs/services/mail/): How do I get @group.studentorg.berkeley.edu ([virtual hosting](/user-docs/services/vhost/))?
+#### [Email hosting](services/mail.md): How do I get @group.studentorg.berkeley.edu ([virtual hosting](services/vhost/index.md))?
 
-First, set up regular [virtual hosting](/user-docs/services/vhost/).
-Then, request [email virtual hosting](/user-docs/services/vhost/mail/).
+First, set up regular [virtual hosting](services/vhost/index.md).
+Then, request [email virtual hosting](services/vhost/mail/index.md).
 
 #### My group already has a group.berkeley.edu domain. Will I have to migrate to group.studentorg.berkeley.edu?
 
 All student organizations will be transistioned to studentorg.berkeley.edu in the coming months. If you are part of a research lab, faculty, or have a subdomain within a department (e.g. site.eecs.berkeley.edu) you will be exempt from the transition. We will provide more communication in the coming months on how this process will work.
 
-#### [Printing](/user-docs/services/lab/printing/): I have a printing question/problem.
+#### [Printing](services/lab/printing.md): I have a printing question/problem.
 
-See [Printing](/user-docs/services/lab/printing/).
+See [Printing](services/lab/printing.md).
 
 #### There is some content on your website I want removed.
 
-See our [content removal policy](/user-docs/services/account/content-removal/).
+See our [content removal policy](services/account/content-removal.md).
 
 #### I need to talk to a human.
 
-See [contact](/user-docs/contact/).
+See [contact](contact/index.md).

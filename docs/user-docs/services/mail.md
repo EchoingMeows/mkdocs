@@ -6,7 +6,7 @@ Email sent to your username @ocf.berkeley.edu (e.g.
 `username@ocf.berkeley.edu`) will be forwarded to a contact email address of
 your choosing.
 
-To configure a forwarding address, log in via [SSH](/user-docs/services/shell/) and
+To configure a forwarding address, log in via [SSH](shell.md) and
 enter the `update-email` command to view or update your contact email address.
 
 Note that you are required to keep your contact address up-to-date for as long
@@ -18,7 +18,7 @@ accounts.
 ## Student groups
 
 We provide email virtual hosting for student groups who have a [virtual
-host](/user-docs/services/vhost/) (e.g. mygroup.studentorg.berkeley.edu). See [here](/user-docs/services/vhost/mail/) for instructions on requesting email hosting and
+host](vhost/index.md) (e.g. mygroup.studentorg.berkeley.edu). See [here](vhost/mail/index.md) for instructions on requesting email hosting and
 configuring email addresses.
 
 ## Individual accounts

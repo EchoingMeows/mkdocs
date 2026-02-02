@@ -8,7 +8,7 @@ established on November 14, 2016 and amended on:
 1. [March 6, 2017](#62-ocf-general-manager)
 2. [November 20, 2017](#33-quorum)
 3. February 11, 2019 (Sections [4.7](#47-vacancies),
-   [5.2.4](#524-nominations), and [5.3.1](#531-election-of-officers-amended))
+   [5.2.4](#524-nominations), and [5.3.1](#531-election-of-officers))
 4. December 2, 2019 (Sections [3.4](#34-committees),
    [4.1](#41-offices), [4.4](#44-elected),
    [4.5](#45-term-of-office), [4.11](#411-committee-heads),
@@ -45,7 +45,7 @@ and may also be referred to as the *OCF*.
 ### 2 OCF Membership
 Any UC Berkeley student, faculty or staff member may be an OCF Member. The
 eligibility of other UC Berkeley affiliated groups shall be subject to the [OCF
-Decision Making Process](#ocf_decision_making_process).
+Decision Making Process](#6-the-ocf-decision-making-process).
 
 
 ### 3 Board of Directors
@@ -152,7 +152,7 @@ to preside over a debate concerning a vote of no confidence in themself.
 
 #### 4.7 Vacancies
 If an elected office becomes vacant, the [OCF Decision Making
-Process](#ocf_decision_making_process) shall designate a member to act in that
+Process](#6-the-ocf-decision-making-process) shall designate a member to act in that
 position until the office can be filled by election or special election as
 provided by Article 5.2.3.
 
@@ -161,7 +161,7 @@ _[Amended at the Board meeting of February 11, 2019]._
 
 #### 4.8 Incapacity
 If an elected officer becomes incapable of discharging the powers and duties of
-their office, the [OCF Decision Making Process](#ocf_decision_making_process)
+their office, the [OCF Decision Making Process](#6-the-ocf-decision-making-process)
 shall designate a member to act in their position for the duration of the
 incapacity.
 

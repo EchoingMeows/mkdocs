@@ -9,7 +9,7 @@ apphosting, you'll want to host with FastCGI instead.**
 
 ## Introduction
 
-All accounts include our [standard web hosting](/user-docs/services/web/), which is
+All accounts include our [standard web hosting](../web/index.md), which is
 suitable for static content, PHP (WordPress, Joomla, etc.), and CGI/FastCGI.
 For student groups wishing to host more advanced web apps with the OCF (Django,
 Flask, Rails, Node.js, etc.), we offer a separate hosting platform which
@@ -18,14 +18,14 @@ provides more flexibility.
 ## App hosting eligibility
 
 App hosting is *only available for student groups with [virtually-hosting
-domain names](/user-docs/services/vhost/)* (either group.studentorg.berkeley.edu, or your own
+domain names](../vhost/index.md)* (either group.studentorg.berkeley.edu, or your own
 separately-purchased domain name). If you don't already have a virtual host and
 want to use app hosting, see below for instructions; please don't fill out a
 virtual host request form.
 
 ## Requesting app hosting
 
-To request app hosting, you need to first [create an OCF group account](/user-docs/membership/). Once you have an account, email `hostmaster@ocf.berkeley.edu`
+To request app hosting, you need to first [create an OCF group account](../../membership/index.md). Once you have an account, email `hostmaster@ocf.berkeley.edu`
 with at least the following information:
 
 * Group's account name
@@ -36,7 +36,7 @@ with at least the following information:
 
 ## Requirements for virtually-hosted apps
 
-All [normal requirements for virtual hosts](/user-docs/services/vhost/) apply. In
+All [normal requirements for virtual hosts](../vhost/index.md) apply. In
 particular, be sure you are in compliance with the university student group
 disclaimer policy, and that your website features a "Hosted by OCF" banner.
 
@@ -86,8 +86,8 @@ is:
 1. Create a directory for your app `~/myapp`.
 
 2. Place a startup script at `~/myapp/run`. Your script should end by `exec`ing
-   the server process. If you followed one of the guides for [Node.js](/user-docs/services/webapps/nodejs/), [Rails](/user-docs/services/webapps/rails/), or
-   [Django](/user-docs/services/webapps/python/), you've already created this file, so
+   the server process. If you followed one of the guides for [Node.js](nodejs.md), [Rails](rails.md), or
+   [Django](python.md), you've already created this file, so
    can move on to the next step.
 
    Otherwise, an example would be:
@@ -142,7 +142,7 @@ for more options.
 ## Frequently asked questions
 ### Can you install a package on the app server?
 
-Probably. [Send us an email](/user-docs/contact/), and be sure to provide the name of
+Probably. [Send us an email](../../contact/index.md), and be sure to provide the name of
 the [Debian package][dpkg] you want us to install. Keep in mind we'll probably
 be installing the stable version of the package, so it might be old.
 
@@ -165,14 +165,14 @@ languages.
 
 ### How do I get a database for my application?
 
-A [MySQL database](/user-docs/services/mysql/) is included with your OCF account. You
+A [MySQL database](../mysql.md) is included with your OCF account. You
 should probably just use that. We're *not* going to set up a different database
 for you (you could install one in your home directory if you *really* want to).
 
 ### I'm running my app on port 3000 but I can't access it.
 
 The app server is behind a firewall; you won't be able to access most ports
-from outside of the OCF. You could come work from [the lab](/user-docs/services/lab/),
+from outside of the OCF. You could come work from [the lab](../lab/index.md),
 or forward the port over SSH from elsewhere.
 
 [dpkg]: https://www.debian.org/distrib/packages#search_packages

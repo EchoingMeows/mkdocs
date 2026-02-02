@@ -5,9 +5,9 @@ title: Staff Policies
 In this section are policies specially applying to staff. All staffers should
 read and be aware of these policies.
 
- * [Staff policy](/staff-docs/policies/staff-policy/)
- * [Keycard policy](/staff-docs/policies/keycard/)
- * The [restarting services procedure](/staff-docs/procedures/restarting-services/)
+ * [Staff policy](staff-policy.md)
+ * [Keycard policy](keycard.md)
+ * The [restarting services procedure](../procedures/restarting-services.md)
 
 OCF staff should also familiarize themselves with the
 [University's IT Policies](https://security.berkeley.edu/policy/policy-catalog).
