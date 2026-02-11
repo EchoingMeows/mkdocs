@@ -144,3 +144,8 @@ run the install script again lol
 
 TODO (@laksith19): play around with disko for resizing
 
+## Migrating a VM
+- make vm using directions above but don't attach disk
+- upload disk to vm using `qm disk import VM_ID IMAGE_PATH vmdata` to import the `.qcow2` image to the existing vm.
+- go to Hardware -> "Unused disk 0", enable "Discard" (make sure disk settings match above), click OK
+- Fix boot order to have scsi disk first (and enabled) in Options -> boot order
