@@ -149,3 +149,6 @@ TODO (@laksith19): play around with disko for resizing
 - upload disk to vm using `qm disk import VM_ID IMAGE_PATH vmdata` to import the `.qcow2` image to the existing vm.
 - go to Hardware -> "Unused disk 0", enable "Discard" (make sure disk settings match above), click OK
 - Fix boot order to have scsi disk first (and enabled) in Options -> boot order
+
+Fixing vm booting with error "disk not found":
+- go to boot options in promox bios and remove existing qemu harddisk boot option and add new option pointing to `grubx64.efi` instead of `shimx64.efi` (bypassing secure boot errors)
