@@ -76,7 +76,7 @@ The basic steps to migration are as follows:
 2. Use the web admin dashboard to install all the themes and plugins you were
    using at WordPress.com
 
-3. Log into your WordPress.com dashboard and go to `Settings > Export` to
+3. Log into your WordPress.com dashboard and go to `Tools > Export` to
    download a zipped XML file with all your site's posts and content. Note that
    this export usually will not include all of your media content.
 
@@ -89,9 +89,30 @@ The basic steps to migration are as follows:
    installation. Additionally, you should try and go through most of your posts
    and pages with images, as you may need to relink things again.
 
-Further details can be found at [the support page by WordPress.com][1].
+Further details can be found on the [WordPress.com documentation][1].
 
 [1]: https://en.support.wordpress.com/moving-to-a-self-hosted-wordpress-site/
+
+
+## Fixing a Compromised Site
+
+### What happened?
+
+A malicious actor gained access to and was able to inject code into your site. They may create redirects from a page to a different site, such as a gambling or scam page, or they will run processes on our servers.
+
+Such exploits are fairly common, as WordPress is by far the most popular web content management system. Usually, they gain access through an outdated plugin with a security vulnerability, but there are many possible ways this might have happened.
+
+### What do I do?
+
+Reach out to [help@ocf.berkeley.edu](mailto:help@ocf.berkeley.edu) with your group account username. We will roll your site back to before the compromise date. If you have any recently uploaded media files that you would like before the site is rolled back, let us know in the email and we will save them for you. All data stored in the database (blogs, etc) will not be rolled back. 
+
+### How do I prevent this from happening?
+
+- **Keep your site up to date:** Regularly update your PHP version. More information can be found on the [WordPress.com documentation][2]. Enable automatic updates for plugins by selecting `Plugins > Enable auto-updates`.
+- **Install security plugins:** WordPress has many security-oriented plugins that can help prevent attacks.
+- **Switch away from WordPress:** Since WordPress is by far the most popular web content management system, WordPress sites are the most targeted in attacks. Using a different web platform or static site generator will make it far less likely your site will be targeted.
+
+[2]: https://wordpress.org/support/update-php/
 
 
 ## Frequently Asked Questions
