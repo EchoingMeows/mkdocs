@@ -24,7 +24,7 @@ Interested in [joining staff](https://www.ocf.berkeley.edu/about/staff)? Feel fr
   <br><b>color-single</b> will print at the color printer near the supply table
 <hr>
 
-### My Print Isn't Printing!
+### My print isn't printing!
 There are multiple reasons as to why a print wouldn't go through. 
 <br><b> Before trying anything, </b> check your <u>Berkeley email</u> as an error email may have been sent to it that would outline the issue. 
 <br>
@@ -35,7 +35,7 @@ Otherwise,
 <br>3. If all else fails, ask a front desk member for help or, [click here](services/lab/printing.md) for a more exhuastive troubleshooting guide.
 <hr>
 
-### Where is the Stapler!?
+### Where is the stapler!?
 The stapler is on the <b>supply table</b>! Look up for the <b>sign</b> in the lab that says <b>Supplies</b> and it'll be there alongside the paper cutter, blank sheets of paper, paperclips, manilla folders, and tape!
 Gluesticks, scissors, highlighers, and additional stationary can be found at the front desk. Additionally, we have binderclips avaliable upon request and chargers for the cost of one Cal-ID per rental.
 <hr>
