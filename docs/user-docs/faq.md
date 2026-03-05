@@ -35,6 +35,11 @@ Otherwise,
 <br>3. If all else fails, ask a front desk member for help or, [click here](services/lab/printing.md) for a more exhuastive troubleshooting guide.
 <hr>
 
+### My Goodnotes export isn't scaled correctly.
+Goodnotes uses a different page size than normal US letter. If you attempt to print a Goodnotes PDF created using **Export This Page** or **Export All**, it may be incorrect even if you adjust scaling in the print dialogue.<br>
+Instead, select **Print** in the export menu and save the file via your device's print dialogue. Then, send your PDF to one of the desktops and print as normal.
+<hr>
+
 ### Where is the stapler!?
 The stapler is on the <b>supply table</b>! Look up for the <b>sign</b> in the lab that says <b>Supplies</b> and it'll be there alongside the paper cutter, blank sheets of paper, paperclips, manilla folders, and tape!
 Gluesticks, scissors, highlighers, and additional stationary can be found at the front desk. Additionally, we have binderclips avaliable upon request and chargers for the cost of one Cal-ID per rental.
