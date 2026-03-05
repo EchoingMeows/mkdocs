@@ -18,7 +18,7 @@ Interested in [joining staff](https://www.ocf.berkeley.edu/about/staff)? Feel fr
 4. Click on the print icon and change the printer option depending on what you're looking to print
   <br><b> single </b> - Single Sided
   <br><b> double </b> - Double Sided
-  <br><b> color-single </b> - Colored Print, Single Sided
+  <br><b> color-single </b> - Colored Print, Single Sided (note that color double sided printing is not currently available)
 5. Go collect your print!
   <br><b> single </b> and <b> double </b> prints will print at the 3 large printers 
   <br><b>color-single</b> will print at the color printer near the supply table
@@ -30,7 +30,7 @@ There are multiple reasons as to why a print wouldn't go through.
 <br>
 Otherwise,
 <br>1. Check how many sides of paper you have left. If your print goes over your daily limit it will not print! (Sides are NOT pages, a double sided print counts as 2 sides)
-  <br> <b>a.</b> Additionally, you only get 10 sides of color printer <b>per semester</b> not day.
+  <br> <b>a.</b> Additionally, you only get 10 sides of color printer <b>per semester</b>, not day.
 <br>2. Try printing again, sometimes the printer likes to eat pages.
 <br>3. If all else fails, ask a front desk member for help or, [click here](services/lab/printing.md) for a more exhuastive troubleshooting guide.
 <hr>
