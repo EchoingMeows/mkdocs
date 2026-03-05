@@ -37,6 +37,7 @@ Otherwise,
 
 ### My Goodnotes export isn't scaled correctly.
 Goodnotes uses a different page size than normal US letter. If you attempt to print a Goodnotes PDF created using **Export This Page** or **Export All**, it may be incorrect even if you adjust scaling in the print dialogue.<br>
+
 Instead, select **Print** in the export menu and save the file via your device's print dialogue. Then, send your PDF to one of the desktops and print as normal.
 <hr>
 
