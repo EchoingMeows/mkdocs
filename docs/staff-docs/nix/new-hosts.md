@@ -138,6 +138,22 @@ run the install script. disk partitioning, installs NixOS, puts our config from 
 
 if command does not initially succeed, nix-collect-garbage before trying to run again (something something cache).
 
+## 4. Add Kerberos Keytab
+
+1. Log in to the kerberos server. `ssh kerberos.ocf.berkeley.edu`
+2. Obtain your admin principal. `kinit $USER/admin`
+3. `kadmin add --random-key host/NEWHOSTNAME.ocf.berkeley.edu` to create the principal. Press enter for all options to leave them as the default.
+4. `kadmin ext_keytab -k NEWHOSTNAME.keytab host/NEWHOSTNAME.ocf.berkeley.edu` to export the a keytab file for the new host.
+5. Now, clone the `ocf/nix` repo on another machine with nix installed such as one of the OCF desktops. `git clone git@github.com:ocf/nix.git`
+6. Place the `NEWHOSTNAME.keytab` file in your home directory on the machine with the repo.
+    - for moving files between hosts, try `sftp`.
+7. Go into the repo and enter the devshell: `cd nix && nix develop`
+8. `age --encrypt $(grep -h "^# public key:" secrets/master-identities/*.pub | sed 's/# public key: //' | xargs -I{} echo '-r {}') -o secrets/master-keyed/keytabs/amethyst.age ~/amethyst.keytab`
+    - pasting the secret into the text editor opened from `agenix edit` wont work for a binary file like this
+9. `git add secrets/master-keyed/keytabs/amethyst.age` so nix can pick up the file
+10. `agenix rekey`
+11. add the new file under `rekeyed`, commit, and push!
+
 ## Resizing hosts
 
 run the install script again lol
