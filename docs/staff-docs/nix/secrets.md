@@ -54,6 +54,8 @@ plug in hardware token, touch token and enter PIN to re-key each secret
 
 git add updated files that are under `master-keyed`. commit and push!
 
+(also pls do a rekey so that future staffers can rekey quicker next time they change a secret)
+
 ## master-keyed
 
 all secrets, but rekeyed (encrypted) with all master identities!!
